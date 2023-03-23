@@ -1,1 +1,1 @@
-TOKEN = "bot token from botmaster"
+TOKEN = "6011254166:AAHPo2TGtPMSUKAepH4yoXDY-xWfEdzdRX8"
